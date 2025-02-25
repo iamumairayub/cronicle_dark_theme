@@ -5,6 +5,8 @@
 ![image](https://github.com/user-attachments/assets/ae509dcd-1686-4e59-8a2d-67b8d7a568df)
 
 
+# Setup
+
 Manually replace `/opt/cronicle/htdocs/css/style.css` with the my `style.css`
 
 Or if you are on Linux, either run
