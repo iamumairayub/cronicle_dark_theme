@@ -1,7 +1,8 @@
 # Dark Theme for Cronicle
 
-![image](https://github.com/user-attachments/assets/79bbb83e-c52b-417f-b35a-42a769304197)
+![image](https://github.com/user-attachments/assets/a7492005-7a6d-4dbb-ac1c-4852a190f4e3)
 
+![image](https://github.com/user-attachments/assets/ae509dcd-1686-4e59-8a2d-67b8d7a568df)
 
 
 Manually replace `/opt/cronicle/htdocs/css/style.css` with the my `style.css`
