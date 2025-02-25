@@ -323,31 +323,31 @@ pre.log_chunk {
 	/* background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%); */
 }
 .data_table tr.red td, .swatch.red {
-	background-color: #ffe0e0;
+	background-color: #d25b5b;
 	/* background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%); */
 }
 .data_table tr.green td, .swatch.green {
-	background-color: #d8ffd8;
+	background-color: #54aa54;
 	/* background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%); */
 }
 .data_table tr.blue td, .swatch.blue {
-	background-color: #e0f0ff;
+	background-color: #6693be;
 	/* background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%); */
 }
 .data_table tr.skyblue td, .swatch.skyblue {
-	background-color: #e0ffff;
+	background-color: #86bebe;
 	/* background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%); */
 }
 .data_table tr.yellow td, .swatch.yellow {
-	background-color: #ffffd0;
+	background-color: #b2b275;
 	/* background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%); */
 }
 .data_table tr.purple td, .swatch.purple {
-	background-color: #ffe0ff;
+	background-color: #c270c2;
 	/* background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%); */
 }
 .data_table tr.orange td, .swatch.orange {
-	background-color: #ffe8d0;
+	background-color: #eb9f51;
 	/* background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%); */
 }
 
