@@ -4,12 +4,26 @@
 
 
 
-Replace `/opt/cronicle/htdocs/css/style.css` with the my `style.css`
+Manually replace `/opt/cronicle/htdocs/css/style.css` with the my `style.css`
+
+Or if you are on Linux, either run
+
+```
+sudo wget -O /opt/cronicle/htdocs/css/style.css https://raw.githubusercontent.com/iamumairayub/cronicle_dark_theme/refs/heads/main/style.css
+```
+
+or
+
+```
+sudo curl -L -o /opt/cronicle/htdocs/css/style.css https://raw.githubusercontent.com/iamumairayub/cronicle_dark_theme/refs/heads/main/style.css
+```
 
 Then do 
 
-`systemctl stop cronicle`
+```
+systemctl stop cronicle
 
-`node bin/build.js dist`
+node bin/build.js dist
 
-`systemctl start cronicle`
+systemctl start cronicle
+```
