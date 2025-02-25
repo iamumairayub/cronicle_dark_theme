@@ -32,3 +32,5 @@ node bin/build.js dist
 
 systemctl start cronicle
 ```
+
+You may have to do hard-reload CTRL+R to see changes
