@@ -24,13 +24,7 @@ sudo curl -L -o /opt/cronicle/htdocs/css/style.css https://raw.githubusercontent
 Then do 
 
 ```
-cd /opt/cronicle
-
-systemctl stop cronicle
-
-node bin/build.js dist
-
-systemctl start cronicle
+cd /opt/cronicle && systemctl stop cronicle && node bin/build.js dist && systemctl start cronicle
 ```
 
 You may have to do hard-reload CTRL+R to see changes
